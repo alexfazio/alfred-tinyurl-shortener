@@ -1,6 +1,6 @@
 # Alfred TinyURL Shortener
 
-![Download count](https://img.shields.io/github/downloads/alexfazio/alfred-tinyurl-shortener/total?label=Total%20Downloads&style=plastic) ![version number](https://img.shields.io/github/v/release/alexfazior/alfred-tinyurl-shortener?label=Latest%20Release&style=plastic)
+![Download count](https://img.shields.io/github/downloads/alexfazio/alfred-tinyurl-shortener/total?label=Total%20Downloads&style=plastic)
 
 ## Description
 
