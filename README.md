@@ -10,7 +10,7 @@ Simplify link sharing with this Alfred 5 workflow that effortlessly shortens URL
 
 ## Installation
 
-- Download the workflow from the [releases page](https://github.com/alexfazio/alfred-tinyurl-shortener/releases).
+- **Download** the workflow from the [releases page](https://github.com/alexfazio/alfred-tinyurl-shortener/releases).
 
 ## Usage
 
